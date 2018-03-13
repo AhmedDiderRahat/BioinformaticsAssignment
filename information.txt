@@ -1,0 +1,7 @@
+Ahmed Dider Rahat
+Id# 14 02 03 02 0101
+12 semester
+
+Note:
+1. I can not completely solve task-9 (PDP algorithm)
+2. I can not completely solve task-11 (Motif Finding algorithm)
